@@ -15,7 +15,7 @@ html(ng-app="infeed")
     .content-wrapper
       div.article(ng-repeat="article in feed", ng-class='{"ad": article.ad, "expanded": article.expanded}', ng-click="article.expanded = !article.expanded", class="article-container")
         span(ng-show="article.ad").ad-label ANNONS
-        img(ng-src="{{article.listingImage.versions[0].url}}")
+        img(ng-src="{{getListingImage(article)}}")
         h2(ng-bind-html="getHTML(article.headline)")
         p.article-preamble(ng-bind-html="getHTML(article.preamble)")
         div.article-body

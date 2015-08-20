@@ -45,6 +45,19 @@
         return $sce.trustAsHtml(html);
       };
 
+      $scope.getListingImage = function(article, aspectRatio) {
+        aspectRatio = aspectRatio || "16x9";
+        var versions = article.listingImage.versions;
+        var listingImage = versions[0];
+        for (var i = 0; i < versions.length; ++i) {
+          if (versions[i].aspectRatio === aspectRatio) {
+            listingImage = versions[i];
+            break;
+          }
+        }
+        return listingImage.url;
+      };
+
       $scope.init();
 
     }]);
