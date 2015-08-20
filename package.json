@@ -5,7 +5,8 @@
   "scripts": {
     "start": "grunt develop",
     "build": "grunt bump && grunt build",
-    "postinstall": "bower install"
+    "postinstall": "bower install",
+    "develop": "grunt develop"
   },
   "devDependencies": {
     "bower": "*",
