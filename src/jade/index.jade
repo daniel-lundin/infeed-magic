@@ -25,7 +25,7 @@ html(ng-app="infeed")
         img(ng-src="{{getListingImage(article)}}")
         h2(ng-bind-html="getHTML(article.headline)", ng-click="article.expanded = !article.expanded")
         p.article-preamble(ng-bind-html="getHTML(article.preamble)")
-        div.article-body(ng-if="article.expanded")
+        div.article-body
           div(ng-bind-html="getHTML(article.bodyText)")
           div.authors
             div.author(ng-repeat="author in article.authors")
