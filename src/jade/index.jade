@@ -15,6 +15,7 @@ html(ng-app="infeed")
     .content-wrapper
       div.article(ng-repeat="article in feed", ng-class='{"ad": article.ad, "expanded": article.expanded}', class="article-container")
         span(ng-show="article.ad").ad-label ANNONS
+        span.close-article-btn(ng-show="article.expanded") X
         img(ng-src="{{getListingImage(article)}}")
         h2(ng-bind-html="getHTML(article.headline)", ng-click="article.expanded = !article.expanded")
         p.article-preamble(ng-bind-html="getHTML(article.preamble)")
@@ -28,6 +29,7 @@ html(ng-app="infeed")
                 h3.author-name {{author.name}}
                 p
                   i {{author.email}}
+          div.close-btn Stäng
 
     if develop
       each jsFile in jsLibFiles
