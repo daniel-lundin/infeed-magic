@@ -9,10 +9,10 @@ html(ng-app="infeed")
       link(href="css/app-#{version}.min.css", type="text/css", rel="stylesheet")
   body(ng-controller="MainController")
 
-    div.article(ng-repeat="article in articles", ng-class='{"ad": article.ad, "expanded": article.expanded}', ng-click="article.expanded = !article.expanded", class="article-container")
+    div.article(ng-repeat="article in feed", ng-class='{"ad": article.ad, "expanded": article.expanded}', ng-click="article.expanded = !article.expanded", class="article-container")
       span(ng-show="article.ad").ad-label ANNONS
-      img(ng-src="{{article.listingImage}}")
-      h2 {{article.title}}
+      //img(ng-src="{{article.listingImage}}")
+      h2 {{article.headline}}
       p.article-preamble {{article.preamble}}
       p.article-body {{article.body}}
 
