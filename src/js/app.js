@@ -1,7 +1,7 @@
 (function(window, angular, undefined) {
   'use strict';
   angular.module('infeed', [])
-    .controller('MainController', ['$scope', '$http', '$sce', function($scope, $http, $sce) {
+    .controller('MainController', ['$scope', '$http', '$sce', '$q', function($scope, $http, $sce, $q) {
       $scope.feed = [];
       $scope.latestNewsFetched = false;
       $scope.adsFetched = false;
@@ -20,7 +20,7 @@
             $scope.adsFetched = true;
             $scope.fetchCompleted();
           });
-      };
+        };
 
 
       $scope.fetchCompleted = function() {
@@ -61,6 +61,20 @@
 
       $scope.init();
 
-    }]);
+    }])
+    .directive('stopAnchorTagClickBubble', function() {
+      return {
+        restrict: 'A',
+        link: function (scope, elem) {
+          setTimeout(function () {
+            elem.find("a").on('click', function(e) {
+              e.stopPropagation();
+
+              return false;
+            });
+          }, 0);
+        }
+      };
+    });
 
 }(window, angular));
