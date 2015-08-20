@@ -5,12 +5,12 @@
   "scripts": {
     "start": "grunt develop",
     "build": "grunt bump && grunt build",
-    "postinstall": "bower install",
-    "develop": "grunt develop"
+    "postinstall": "bower install"
   },
   "devDependencies": {
     "bower": "*",
     "grunt": "*",
+    "grunt-cli": "*",
     "grunt-contrib-connect": "*",
     "grunt-contrib-watch": "*",
     "grunt-contrib-jade": "*",
