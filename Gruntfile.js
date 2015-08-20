@@ -9,6 +9,7 @@ module.exports = function(grunt) {
     buildFolder: 'dist',
     livereload: 9001,
     jsLibFiles: [
+      'bower_components/angular/angular.js'
     ],
     jsFiles: [
       'app.js'
