@@ -9,6 +9,7 @@ html(ng-app="infeed")
       link(href="css/app.css", type="text/css", rel="stylesheet")
     else
       link(href="css/app-#{version}.min.css", type="text/css", rel="stylesheet")
+    link(rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css")
   body(ng-controller="MainController")
     .header
       h1 Infeed Magic
@@ -21,12 +22,19 @@ html(ng-app="infeed")
           stop-anchor-tag-click-bubble=""
         )
         span(ng-show="article.ad").ad-label ANNONS
-        span.close-article-btn(ng-show="article.expanded", ng-click="article.expanded = !article.expanded") X
-        img(ng-src="{{getListingImage(article)}}", ng-click="article.expanded = !article.expanded")
+        span.close-article-btn.fa.fa-times(ng-show="article.expanded", ng-click="article.expanded = !article.expanded")
+        img(class="article-image", ng-src="{{getListingImage(article)}}", ng-click="article.expanded = !article.expanded")
         h2(ng-bind-html="getHTML(article.headline)", ng-click="article.expanded = !article.expanded")
         p.article-preamble(ng-bind-html="getHTML(article.preamble)")
         div.article-body
           div(ng-bind-html="getHTML(article.bodyText)")
+
+          div.sharing
+            h3 Dela:
+            a(href="#").social.fa.fa-facebook=" FB"
+            a(href="#").social.fa.fa-twitter=" Twitter"
+            a(href="#").social.fa.fa-whatsapp=" WhatsApp"
+
           div.authors
             div.author(ng-repeat="author in article.authors")
               span.author-image(ng-if="author.image")
@@ -35,6 +43,8 @@ html(ng-app="infeed")
                 h3.author-name {{author.name}}
                 p
                   i {{author.email}}
+
+
           div.close-btn(ng-click="article.expanded = !article.expanded") Stäng
 
     if develop
