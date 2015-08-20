@@ -2,7 +2,7 @@ body
   font-family Arial, sans-serif
   background-color #efefef
 
-p 
+p
   line-height 1.3em
   margin-bottom 0.5em
 
@@ -12,7 +12,7 @@ h2
   font-size 28px
   font-weight bold
   color #000
-    
+
 h2 + p, p + h2
   margin-top 28px
 
@@ -25,9 +25,6 @@ h2 + p, p + h2
   color #696969
   border 1px solid rgba(0, 0, 0, 0.1)
   box-shadow 1px 1px 4px rgba(0, 0, 0, 0.2)
-
-    h2, .article-preamble
-      //text-decoration underline
 
   img
     width 100%
@@ -78,5 +75,32 @@ h2 + p, p + h2
     padding-left 5px
 
 .content-wrapper
-  max-width 800px
+  max-width 480px
   margin 0 auto
+
+.close-article-btn
+  display block
+  width 20px
+  height 20px
+
+  position absolute
+  top 10px
+  right 10px
+
+  border-radius 20px
+  border 2px solid rgba(0, 0, 0, 0.5)
+  background-color #fff
+  color rgba(0, 0, 0, 0.5)
+
+  text-align center
+  line-height 20px
+  cursor pointer
+
+.close-btn
+  border solid rgba(0, 0, 0, 0.5)
+  border-width 2px 0 0
+  text-align center
+  font-size 20px
+  padding 10px 0
+  margin-top 20px
+  cursor pointer
