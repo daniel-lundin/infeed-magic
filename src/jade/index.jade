@@ -46,7 +46,9 @@ html(ng-app="infeed")
                   i {{author.email}}
 
 
-          div.close-btn(ng-click="article.expanded = !article.expanded") Stäng
+        div.expand-button(ng-click="article.expanded = !article.expanded")
+          i.fa.fa-angle-down(ng-hide="article.expanded")
+          i.fa.fa-angle-up(ng-show="article.expanded")
 
     if develop
       each jsFile in jsLibFiles
