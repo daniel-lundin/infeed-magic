@@ -10,10 +10,6 @@
         $http.get('assets/data/most-read.json')
           .success(function(data) {
             $scope.articles = data;
-            //$scope.articles.forEach(function(article) {
-            //  article.preamble = $sce.trustAsHtml(article.preamble);
-            //  article.bodyText = $sce.trustAsHtml(article.bodyText);
-            //});
             $scope.latestNewsFetched = true;
             $scope.fetchCompleted();
           });
@@ -45,11 +41,7 @@
         $scope.feed = $scope.feed.concat($scope.articles.slice(8));
       };
 
-      $scope.getHTML = function(html){
-        return $sce.trustAsHtml(html);
-      };
-
-      $scope.getHTML = function(html){
+      $scope.getHTML = function(html) {
         return $sce.trustAsHtml(html);
       };
 

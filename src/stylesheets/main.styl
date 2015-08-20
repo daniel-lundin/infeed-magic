@@ -1,8 +1,18 @@
 body
   font-family Arial, sans-serif
+p 
+  line-height 1.3em
+  margin-bottom 0.5em
 
 h2
+  &:hover
+    cursor pointer
   font-size 28px
+  font-weight bold
+  color #000
+    
+h2 + p, p + h2
+  margin-top 28px
 
 .article-container
   background-color #efefef
@@ -14,11 +24,8 @@ h2
   border 1px solid rgba(0, 0, 0, 0.1)
   box-shadow 1px 1px 4px rgba(0, 0, 0, 0.2)
 
-  &:hover
-    cursor pointer
-
     h2, .article-preamble
-      text-decoration underline
+      //text-decoration underline
 
   img
     width 100%
