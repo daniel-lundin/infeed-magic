@@ -3,6 +3,8 @@ html(ng-app="infeed")
   head
     meta(charset="utf-8")
     meta(name="viewport", content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no")
+    meta(name="apple-mobile-web-app-capable", content="yes")
+    
     link(href='http://fonts.googleapis.com/css?family=Satisfy', rel='stylesheet', type='text/css')
     if develop
       link(href="css/app.css", type="text/css", rel="stylesheet")
@@ -13,28 +15,21 @@ html(ng-app="infeed")
       h1 Infeed Magic
 
     .content-wrapper
-      div.article(
-          ng-repeat="article in feed",
-          ng-class='{"ad": article.ad, "expanded": article.expanded}',
-          class="article-container",
-          stop-anchor-tag-click-bubble=""
-        )
+      div.article(ng-repeat="article in feed", ng-class='{"ad": article.ad, "expanded": article.expanded}', ng-click="article.expanded = !article.expanded", class="article-container")
         span(ng-show="article.ad").ad-label ANNONS
-        span.close-article-btn(ng-show="article.expanded", ng-click="article.expanded = !article.expanded") X
-        img(ng-src="{{getListingImage(article)}}", ng-click="article.expanded = !article.expanded")
-        h2(ng-bind-html="getHTML(article.headline)", ng-click="article.expanded = !article.expanded")
-        p.article-preamble(ng-bind-html="getHTML(article.preamble)")
-        div.article-body
-          div(ng-bind-html="getHTML(article.bodyText)")
-          div.authors
-            div.author(ng-repeat="author in article.authors")
-              span.author-image(ng-if="author.image")
-                img(ng-src="{{author.image.versions[0].url}}")
-              span.author-contact
-                h3.author-name {{author.name}}
-                p
-                  i {{author.email}}
-          div.close-btn(ng-click="article.expanded = !article.expanded") Stäng
+        //img(ng-src="{{article.listingImage}}")
+        h2 {{article.headline}}
+        p.article-preamble {{article.preamble}}
+        p.article-body {{article.bodyText}}
+
+        div.authors
+          div.author(ng-repeat="author in article.authors")
+            span.author-image(ng-if="author.image")
+              img(ng-src="{{author.image.versions[0].url}}")
+            span.author-contact
+              h3.author-name {{author.name}}
+              p
+                i {{author.email}}
 
     if develop
       each jsFile in jsLibFiles
