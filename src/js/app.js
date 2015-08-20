@@ -7,7 +7,7 @@
       $scope.adsFetched = false;
 
       $scope.init = function() {
-        $http.get('assets/data/most-read.json')
+        $http.get('assets/data/allt-om-resor.json')
           .success(function(data) {
             $scope.articles = data;
             $scope.latestNewsFetched = true;
