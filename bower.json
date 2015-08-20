@@ -1,0 +1,8 @@
+{
+  "name": "infeed-magic",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
