@@ -1,6 +1,6 @@
 {
   "name": "infeed-magic",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "baseUrl": "",
   "scripts": {
     "start": "grunt develop",
