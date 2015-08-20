@@ -4,7 +4,7 @@ set -e
 npm run build
 
 git checkout gh-pages
-git pull
+git pull origin gh-pages
 rm -r css
 rm -r js
 rm -r assets
