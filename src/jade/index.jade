@@ -18,16 +18,16 @@ html(ng-app="infeed")
         img(ng-src="{{article.listingImage.versions[0].url}}")
         h2(ng-bind-html="getHTML(article.headline)")
         p.article-preamble(ng-bind-html="getHTML(article.preamble)")
-        p.article-body(ng-bind-html="getHTML(article.bodyText)")
-
-        div.authors
-          div.author(ng-repeat="author in article.authors")
-            span.author-image(ng-if="author.image")
-              img(ng-src="{{author.image.versions[0].url}}")
-            span.author-contact
-              h3.author-name {{author.name}}
-              p
-                i {{author.email}}
+        div.article-body
+          p(ng-bind-html="getHTML(article.bodyText)")
+          div.authors
+            div.author(ng-repeat="author in article.authors")
+              span.author-image(ng-if="author.image")
+                img(ng-src="{{author.image.versions[0].url}}")
+              span.author-contact
+                h3.author-name {{author.name}}
+                p
+                  i {{author.email}}
 
     if develop
       each jsFile in jsLibFiles
