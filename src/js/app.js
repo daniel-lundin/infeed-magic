@@ -7,7 +7,7 @@
       $scope.adsFetched = false;
 
       $scope.init = function() {
-        $http.get('assets/data/latest-news.json')
+        $http.get('assets/data/most-read.json')
           .success(function(data) {
             $scope.articles = data;
             //$scope.articles.forEach(function(article) {
@@ -38,12 +38,15 @@
           ad.ad = true;
         });
 
-
         $scope.feed = $scope.articles.slice(0, 4);
         $scope.feed.push($scope.ads[0]);
         $scope.feed = $scope.feed.concat($scope.articles.slice(5, 8));
         $scope.feed.push($scope.ads[1]);
-        $scope.feed = $scope.feed.concat($scope.articles.slice(9, 13));
+        $scope.feed = $scope.feed.concat($scope.articles.slice(8));
+      };
+
+      $scope.getHTML = function(html){
+        return $sce.trustAsHtml(html);
       };
 
       $scope.getHTML = function(html){

@@ -30,7 +30,17 @@
         "isPremium": false,
         "linkUrl": "/annonssida/loreal/7-tips-som-bevarar-din-gyllenbruna-farg/",
         "listingImage": {
-            "self": "http://content-internal.expressen.se/image/98e3ec63-590c-476b-8197-95eb50874c78"
+            "originalExtension": ".jpg",
+            "pufferPath": "/98/e3/98e3ec63590c476b819795eb50874c78",
+            "self": "http://content-internal.expressen.se/image/98e3ec63-590c-476b-8197-95eb50874c78",
+            "type": "image",
+            "versions": [
+                {
+                    "height": 363,
+                    "url": "http://y.cdn-expressen.se/images/98/e3/98e3ec63590c476b819795eb50874c78/original.jpg",
+                    "width": 645
+                }
+            ]
         },
         "media": {
             "backgroundColor": null,
@@ -125,7 +135,17 @@
         "isPremium": false,
         "linkUrl": "/annonssida/loreal/test-vilket-solskydd-passar-dig-bast/",
         "listingImage": {
-            "self": "http://content-internal.expressen.se/image/881c1532-0f78-4fb3-96fe-c91ecd83d259"
+            "originalExtension": ".jpg",
+            "pufferPath": "/88/1c/881c15320f784fb396fec91ecd83d259",
+            "self": "http://content-internal.expressen.se/image/881c1532-0f78-4fb3-96fe-c91ecd83d259",
+            "type": "image",
+            "versions": [
+                {
+                    "height": 1754,
+                    "url": "http://z.cdn-expressen.se/images/88/1c/881c15320f784fb396fec91ecd83d259/original.jpg",
+                    "width": 2481
+                }
+            ]
         },
         "media": {
             "backgroundColor": null,
@@ -220,7 +240,17 @@
         "isPremium": false,
         "linkUrl": "/annonssida/statoil/statoils-nya-drivmedel-milesplus-98-har-manga-pluspoang/",
         "listingImage": {
-            "self": "http://content-internal.expressen.se/image/a243f723-c8d7-4052-b296-8f13ca3aaa12"
+            "originalExtension": ".jpg",
+            "pufferPath": "/a2/43/a243f723c8d74052b2968f13ca3aaa12",
+            "self": "http://content-internal.expressen.se/image/a243f723-c8d7-4052-b296-8f13ca3aaa12",
+            "type": "image",
+            "versions": [
+                {
+                    "height": 354,
+                    "url": "http://x.cdn-expressen.se/images/a2/43/a243f723c8d74052b2968f13ca3aaa12/original.jpg",
+                    "width": 600
+                }
+            ]
         },
         "media": {
             "backgroundColor": null,
@@ -326,7 +356,17 @@
         "isPremium": false,
         "linkUrl": "/annonssida/statoil/nya-drivmedlet-som-tar-dig-xx-mil-langre-per-tank/",
         "listingImage": {
-            "self": "http://content-internal.expressen.se/image/99b3fef0-3dea-4847-8a81-545c0dd4bf5c"
+            "originalExtension": ".jpg",
+            "pufferPath": "/99/b3/99b3fef03dea48478a81545c0dd4bf5c",
+            "self": "http://content-internal.expressen.se/image/99b3fef0-3dea-4847-8a81-545c0dd4bf5c",
+            "type": "image",
+            "versions": [
+                {
+                    "height": 360,
+                    "url": "http://y.cdn-expressen.se/images/99/b3/99b3fef03dea48478a81545c0dd4bf5c/original.jpg",
+                    "width": 540
+                }
+            ]
         },
         "omnitureId": "98288283-1c3d-41e9-990e-96b4dc948e68",
         "pageLinkId": 6206683,
@@ -396,7 +436,17 @@
         "isPremium": false,
         "linkUrl": "/annonssida/fiatprofessional/bensinpilen-du-inte-visste-fanns/",
         "listingImage": {
-            "self": "http://content-internal.expressen.se/image/ade8efa4-fb3d-4194-8d33-c23f630cd64e"
+            "originalExtension": ".jpg",
+            "pufferPath": "/ad/e8/ade8efa4fb3d41948d33c23f630cd64e",
+            "self": "http://content-internal.expressen.se/image/ade8efa4-fb3d-4194-8d33-c23f630cd64e",
+            "type": "image",
+            "versions": [
+                {
+                    "height": 294,
+                    "url": "http://x.cdn-expressen.se/images/ad/e8/ade8efa4fb3d41948d33c23f630cd64e/original.jpg",
+                    "width": 600
+                }
+            ]
         },
         "omnitureId": "fbe92e6f-f7b2-4735-a850-f684e5a13b08",
         "pageLinkId": 6103942,
@@ -436,414 +486,6 @@
         "updateDate": "2015-03-16T11:43:35.017Z"
     },
     {
-        "commentsEnabled": false,
-        "headline": "Quiz: Klarar du k\u00f6rkortsfr\u00e5gorna?",
-        "hiddenFromLists": false,
-        "hideDatePublished": true,
-        "isPremium": false,
-        "linkUrl": "/annonssida/fiatprofessional/quiz-klarar-du-korkortsfragorna-1/",
-        "omnitureId": "37b5d788-b820-424f-823a-e17a1d5a7b3d",
-        "preamble": "<p>Gammal som ung \u00e4r det viktigt att ha koll p\u00e5 r\u00e5dande trafikregler. Oavsett om du har haft k\u00f6rkort i evigheter eller \u00e4r p\u00e5 v\u00e4g att skaffa, \u00e4r det h\u00e4r ett perfekt quiz f\u00f6r att testa dina kunskaper. Vars\u00e5god att s\u00e4tta ig\u00e5ng med quizet!</p>\r\n<p>\u00a0</p>\r\n<p><strong><a href=\"http://www.fiatprofessional.se/se/Modeller/Ducato_Skap\" target=\"_blank\">Och du, kolla in nya Fiat Ducato h\u00e4r!</a></strong></p>",
-        "publishDate": "2015-02-06T08:26:31.737Z",
-        "questions": [
-            {
-                "answerAlternatives": [
-                    {
-                        "id": "a3c160ad-1c4e-4788-9330-466dcf3b06dc",
-                        "points": 0,
-                        "title": "Motoroljan"
-                    },
-                    {
-                        "id": "1e9a2ee5-eebd-4f63-ad7e-9bfdf58352f8",
-                        "points": 0,
-                        "title": "D\u00e4cken"
-                    },
-                    {
-                        "id": "15825d8f-d86d-474a-bb06-8367f05ee3df",
-                        "points": 1,
-                        "title": "Lyktorna"
-                    }
-                ],
-                "id": "28cfce44-6004-4366-9b8d-208d03d0ec74",
-                "numberOfAnswerAlternativesToEnter": 1,
-                "title": "Vad b\u00f6r kontrolleras varje dag innan k\u00f6rning? ",
-                "waspType": "off"
-            },
-            {
-                "answerAlternatives": [
-                    {
-                        "id": "bb279638-8447-4881-997f-67b47b73907a",
-                        "points": 1,
-                        "title": "R\u00f6d vimpel"
-                    },
-                    {
-                        "id": "7e8479e7-bb27-4db0-9cc6-7b1b021599a8",
-                        "points": 0,
-                        "title": "Tuta med j\u00e4mna mellanrum"
-                    },
-                    {
-                        "id": "b269e685-4966-44e1-a8dc-f4c642144be6",
-                        "points": 0,
-                        "title": "Blinkande bakljus"
-                    }
-                ],
-                "id": "1a38d759-3301-4588-bbe0-cc8089751b53",
-                "numberOfAnswerAlternativesToEnter": 1,
-                "title": "Hur ska man markera utstickande last?",
-                "waspType": "off"
-            },
-            {
-                "answerAlternatives": [
-                    {
-                        "id": "4db23acd-11a0-45d0-b8d4-81ce66308a9f",
-                        "points": 0,
-                        "title": "J\u00e4mn hastighet"
-                    },
-                    {
-                        "id": "86a01247-5af8-4f1a-aeb9-cd6dfda34779",
-                        "points": 1,
-                        "title": "Kraftiga inbromsningar"
-                    },
-                    {
-                        "id": "ba274668-919d-418d-90be-171e9ed3c96c",
-                        "points": 0,
-                        "title": "Hoppa \u00f6ver v\u00e4xlar"
-                    }
-                ],
-                "id": "97095620-bf5e-4402-93e6-4db1c300692b",
-                "numberOfAnswerAlternativesToEnter": 1,
-                "title": "Vilket av f\u00f6ljande \u00e4r ett icke-ekonomiskt k\u00f6rs\u00e4tt?",
-                "waspType": "off"
-            },
-            {
-                "answerAlternatives": [
-                    {
-                        "id": "e9015124-620f-4a07-b208-e1345329fb47",
-                        "points": 1,
-                        "title": "8"
-                    },
-                    {
-                        "id": "a612dd01-0f76-4fd1-8ade-b4c1389fbda4",
-                        "points": 0,
-                        "title": "4"
-                    },
-                    {
-                        "id": "6c04dc03-4799-49ec-82c5-00166980f3a8",
-                        "points": 0,
-                        "title": "6"
-                    }
-                ],
-                "id": "a231298b-a8e8-48cb-baf6-785f2eedfcba",
-                "numberOfAnswerAlternativesToEnter": 1,
-                "title": "Hur m\u00e5nga sittplatser f\u00e5r en personbil ha f\u00f6rutom f\u00f6rarplatsen?",
-                "waspType": "off"
-            },
-            {
-                "answerAlternatives": [
-                    {
-                        "id": "80a273b8-b5d1-4c2a-a9f7-b7df6838d273",
-                        "points": 1,
-                        "title": "Nej, aldrig."
-                    },
-                    {
-                        "id": "e053ab12-735f-4684-b89d-c0119fbe6bb5",
-                        "points": 0,
-                        "title": "Ja, om hastigheten \u00e4r under 90 km/h."
-                    },
-                    {
-                        "id": "1b228880-5f93-4712-abb5-a1eeb2110685",
-                        "points": 0,
-                        "title": "Ja, men endast om trafiken inte \u00e4r m\u00f6tande."
-                    }
-                ],
-                "id": "bc0ae858-9cd2-4bb3-b2b9-5d8c8bbe3c20",
-                "numberOfAnswerAlternativesToEnter": 1,
-                "title": "\u00c4r det till\u00e5tet att g\u00f6ra en U-sv\u00e4ng p\u00e5 motorv\u00e4gen?",
-                "waspType": "off"
-            },
-            {
-                "answerAlternatives": [
-                    {
-                        "id": "15b4cec7-6338-48c4-857f-7ec97494d661",
-                        "points": 0,
-                        "title": "1 \u00e5r"
-                    },
-                    {
-                        "id": "693720ec-4528-4910-bcc4-dd78008d9fff",
-                        "points": 0,
-                        "title": "3 \u00e5r"
-                    },
-                    {
-                        "id": "204c7280-036d-4b00-ba29-a2bd9009f8b8",
-                        "points": 1,
-                        "title": "2 \u00e5r"
-                    }
-                ],
-                "id": "0473296b-ddf5-4480-941a-d53b0fe452b2",
-                "numberOfAnswerAlternativesToEnter": 1,
-                "title": "Hur l\u00e5ng \u00e4r pr\u00f6votiden f\u00f6r samtliga nya k\u00f6rkortsinnehavare i Sverige?",
-                "waspType": "off"
-            },
-            {
-                "answerAlternatives": [
-                    {
-                        "id": "09a71382-0582-4df4-9275-d943df99a8c0",
-                        "points": 0,
-                        "title": "Ja"
-                    },
-                    {
-                        "id": "eae9f972-8895-4874-bb88-aa9729cf8cb6",
-                        "points": 1,
-                        "title": "Nej"
-                    }
-                ],
-                "id": "8be68071-e8d8-439c-a68c-e2b3ada948cc",
-                "numberOfAnswerAlternativesToEnter": 1,
-                "title": "\u00c4r det i regel f\u00f6rbjudet att stanna p\u00e5 en bro?",
-                "waspType": "off"
-            },
-            {
-                "answerAlternatives": [
-                    {
-                        "id": "bc06b878-f5c2-41f6-9eb1-1efec458109f",
-                        "points": 1,
-                        "title": "Den fyrdubblas"
-                    },
-                    {
-                        "id": "28a34721-6eff-4564-b433-a3323d882d9f",
-                        "points": 0,
-                        "title": "Den halveras"
-                    },
-                    {
-                        "id": "a5b8bca7-f9a2-4876-9bdd-4bf43a80c13d",
-                        "points": 0,
-                        "title": "Den dubblas"
-                    }
-                ],
-                "id": "1d9c8421-8ae0-4169-8411-16be6ad5e74c",
-                "numberOfAnswerAlternativesToEnter": 1,
-                "title": "Du har \u00f6kat bilens hastighet fr\u00e5n 50 till 100 km/h. Vad h\u00e4nder med r\u00f6relseenergin?",
-                "waspType": "off"
-            },
-            {
-                "answerAlternatives": [
-                    {
-                        "id": "cf1d9d34-db2f-4c63-9f32-2df12626d243",
-                        "points": 0,
-                        "title": "Du har stopplikt."
-                    },
-                    {
-                        "id": "a312fe0b-762a-4ff8-ac91-069c33d6b812",
-                        "points": 0,
-                        "title": "H\u00f6gerregel."
-                    },
-                    {
-                        "id": "9bc7a987-f80d-49a4-8a32-38b510c5eec0",
-                        "points": 1,
-                        "title": "Du har v\u00e4jningsplikt."
-                    }
-                ],
-                "id": "af65f0df-fcae-4347-b922-23f5373f9aaf",
-                "numberOfAnswerAlternativesToEnter": 1,
-                "title": "Du k\u00f6r in i en rondell. Vilken av dessa regler g\u00e4ller?",
-                "waspType": "off"
-            }
-        ],
-        "quizId": "37b5d788-b820-424f-823a-e17a1d5a7b3d",
-        "quizType": "singleRightAnswer",
-        "relatedArticles": [],
-        "resultMessages": [],
-        "section": {
-            "latestNews": {
-                "self": "http://content-internal.expressen.se/latest-news/standard-section/dca06dfb-770d-41cb-95d8-eadb21eb955b"
-            },
-            "linkUrl": "/annonssida/fiatprofessional/",
-            "mostRead": {
-                "self": "http://content-internal.expressen.se/most-read/standard-section/dca06dfb-770d-41cb-95d8-eadb21eb955b"
-            },
-            "section": {
-                "latestNews": {
-                    "self": "http://content-internal.expressen.se/latest-news/standard-section/68ed240c-022d-4dda-f9ab-6ef3735ab14c"
-                },
-                "linkUrl": "/annonssida/",
-                "mostRead": {
-                    "self": "http://content-internal.expressen.se/most-read/standard-section/68ed240c-022d-4dda-f9ab-6ef3735ab14c"
-                },
-                "self": "http://content-internal.expressen.se/standard-section/68ed240c-022d-4dda-f9ab-6ef3735ab14c",
-                "title": "Annonssida",
-                "type": "standard-section"
-            },
-            "self": "http://content-internal.expressen.se/standard-section/dca06dfb-770d-41cb-95d8-eadb21eb955b",
-            "title": "fiatprofessional",
-            "type": "standard-section"
-        },
-        "self": "http://content-internal.expressen.se/quiz/37b5d788-b820-424f-823a-e17a1d5a7b3d",
-        "showResult": true,
-        "type": "quiz",
-        "updateDate": "2015-02-06T08:26:31.737Z"
-    },
-    {
-        "adsInCloseConnectionToContentDisabled": false,
-        "bautaWidgets": [],
-        "bodyText": "<p><a href=\"http://www.fiatprofessional.se/se/Modeller/Ducato_Skap\" target=\"_blank\">Kolla in nya Fiat Ducato h\u00e4r!</a></p>\r\n<p>\u00a0</p>\r\n<p>Det finns olika anledningar till att vilja designa bilen med n\u00e5gra l\u00e4ckra attiraljer. Du kanske vill impa p\u00e5 polarna, se snygg ut p\u00e5 v\u00e4garna eller g\u00f6ra det enbart f\u00f6r din egen estetiska sinnesro. Dessutom finns det v\u00e4ldigt m\u00e5nga olika s\u00e4tt att pimpa bilen p\u00e5, se bara dessa exempel:</p>\r\n<h2>V\u00e4xelspaken:</h2>\r\n<p>Att pimpa till v\u00e4xelspaken \u00e4r b\u00e5de billigt och roligt. F\u00f6r under tv\u00e5 hundra kronor finns ett stort utbud d\u00e4r du kan v\u00e4lja mellan flera olika h\u00e4ftiga designer. Vad s\u00e4gs om en v\u00e4xelspak kl\u00e4dd i nitar, coola diamanter eller formad som en d\u00f6dskalle? F\u00e5 v\u00e4xelspaken att reflektera din personlighet, eller n\u00e5got av dina intressen! Du kommer bli h\u00e4pen \u00f6ver hur m\u00e5nga alternativ det finns. Aprop\u00e5 v\u00e4xell\u00e5da kan du alltid v\u00e4lja mellan automatisk och manuell n\u00e4r du k\u00f6per din <a href=\"http://www.fiatprofessional.se/se/Modeller/Ducato_Skap\" target=\"_blank\">Fiat Ducato.</a></p>\r\n<h2>Dofter:</h2>\r\n<p>En ny produkt p\u00e5 marknaden applicerar en smart l\u00f6sning, som g\u00f6r att dofterna kan f\u00e4stas vid fl\u00e4ktutbl\u00e5set, och d\u00e4rmed s\u00e4nda ut en god doft i bilen, lastbilen eller husvagnen. Det finns flera olika alternativ p\u00e5 dofter och de h\u00e5ller oftast cirka sex veckor. Produkten inneh\u00e5ller ingen v\u00e4tska och kan k\u00f6pas f\u00f6r ett pris runt 50 kronor. Designen \u00e4r stilren och finns i olika f\u00e4rgalternativ. Dofterna \u00e4r givetvis kompatibla med Fiat Ducatos fl\u00e4ktsystem.<br>Ett annat alternativ \u00e4r Wunderbaum, som kan k\u00f6pas i massvis med olika lukter.</p>\r\n<h2>Mobilh\u00e5llare:</h2>\r\n<p>Anv\u00e4nder du din mobiltelefon som GPS? D\u00e5 \u00e4r det v\u00e4ldigt smidigt att ha en mobilh\u00e5llare, som du enkelt f\u00e4ster med sugpropp p\u00e5 framrutan. Ur s\u00e4kerhetsaspekt \u00e4r detta bra, d\u00e5 du slipper fumla efter mobilen eller kolla ner i kn\u00e4t. Det absolut b\u00e4sta d\u00e4remot, \u00e4r inbyggd GPS, som f\u00f6ljer med <a href=\"http://www.fiatprofessional.se/se/Modeller/Ducato_Skap\" target=\"_blank\">Fiat Ducato.</a> Den smarta kontrollpanelen l\u00e5ter dig dessutom koppla in din smartphone, f\u00f6r att s\u00e5ledes kunna svara p\u00e5 samtal eller lyssna p\u00e5 podcast via bilens radio.</p>\r\n<h2>F\u00e4lgar:</h2>\r\n<p>N\u00e5gra l\u00e4ckra f\u00e4ljar kan verkligen imponera. De finns i flera olika utseenden och prisklasser. En del f\u00e4lgar passar inte riktigt till vilken bil som helst, s\u00e5 ett tips \u00e4r att t\u00e4nka igenom noga innan du best\u00e4ller och monterar ditt set f\u00e4lgar.</p>\r\n<h2>Kl\u00e4dsel:</h2>\r\n<p>Inred bilen med lite schysst kl\u00e4dsel, det k\u00e4nns b\u00e5de fr\u00e4scht och snyggt. Du kan ocks\u00e5 k\u00f6pa ett enkelt s\u00e4tesskydd, om du ska transportera \"smutsiga\" saker i baks\u00e4tet. Ett alternativ till Fiat Ducato \u00e4r att uppgradera frams\u00e4tet till en extra sits, s\u00e5 att tre personer f\u00e5r plats. Det finns givetvis inredningar till s\u00e5dana typer av s\u00e4ten ocks\u00e5.</p>\r\n<p>Detta \u00e4r bara n\u00e5gra saker du kan g\u00f6ra f\u00f6r att h\u00f6ja utseendet p\u00e5 just din bil. \u00c4ndl\u00f6sa m\u00f6jligheter finns, s\u00e5 hitta n\u00e5got som passar dig och b\u00f6rja pimpa!</p>\r\n<p>\u00a0</p>\r\n<p><strong><a href=\"http://www.fiatprofessional.se/se/Modeller/Ducato_Skap\" target=\"_blank\">Kolla in nya Fiat Ducato h\u00e4r!</a></strong></p>",
-        "bottomWidgets": [],
-        "commentsEnabled": false,
-        "headline": "Pimpa bilen med l\u00e4ckra attiraljer!",
-        "hiddenFromLists": false,
-        "hideFromRobots": false,
-        "isLongRead": false,
-        "isPremium": false,
-        "linkUrl": "/annonssida/fiatprofessional/pimpa-bilen-med-lackra-attiraljer/",
-        "omnitureId": "2a8dd860-3bfc-4077-9124-452336f01244",
-        "pageLinkId": 6008803,
-        "preamble": "<p>I dessa m\u00f6rka tider kan en l\u00e4cker designm\u00e4ssig uppgradering vara p\u00e5 sin plats! Det finns flera olika s\u00e4tt att pimpa bilen och oavsett vad du \u00e4r intresserad av finns s\u00e4kert n\u00e5got f\u00f6r dig.</p>",
-        "preambleAreaWidgets": [],
-        "publishDate": "2015-02-05T13:11:01.847Z",
-        "rightWidgets": [],
-        "section": {
-            "latestNews": {
-                "self": "http://content-internal.expressen.se/latest-news/standard-section/dca06dfb-770d-41cb-95d8-eadb21eb955b"
-            },
-            "linkUrl": "/annonssida/fiatprofessional/",
-            "mostRead": {
-                "self": "http://content-internal.expressen.se/most-read/standard-section/dca06dfb-770d-41cb-95d8-eadb21eb955b"
-            },
-            "section": {
-                "latestNews": {
-                    "self": "http://content-internal.expressen.se/latest-news/standard-section/68ed240c-022d-4dda-f9ab-6ef3735ab14c"
-                },
-                "linkUrl": "/annonssida/",
-                "mostRead": {
-                    "self": "http://content-internal.expressen.se/most-read/standard-section/68ed240c-022d-4dda-f9ab-6ef3735ab14c"
-                },
-                "self": "http://content-internal.expressen.se/standard-section/68ed240c-022d-4dda-f9ab-6ef3735ab14c",
-                "title": "Annonssida",
-                "type": "standard-section"
-            },
-            "self": "http://content-internal.expressen.se/standard-section/dca06dfb-770d-41cb-95d8-eadb21eb955b",
-            "title": "fiatprofessional",
-            "type": "standard-section"
-        },
-        "self": "http://content-internal.expressen.se/standard-article/2a8dd860-3bfc-4077-9124-452336f01244",
-        "tags": [],
-        "topWidgets": [],
-        "topics": [],
-        "type": "standard-article",
-        "updateDate": "2015-02-05T13:11:01.847Z"
-    },
-    {
-        "commentsEnabled": false,
-        "headline": "K\u00f6rkort",
-        "hiddenFromLists": false,
-        "hideDatePublished": true,
-        "isPremium": false,
-        "linkUrl": "/annonssida/fiatprofessional/korkort/",
-        "omnitureId": "36441772-e3ad-4450-abb4-9c2d27fe4b52",
-        "publishDate": "2015-02-05T08:04:07.587Z",
-        "questions": [
-            {
-                "answerAlternatives": [
-                    {
-                        "id": "a63522a8-f17c-4561-ae8c-bec0a5e270cc",
-                        "points": 0,
-                        "title": "Motoroljan"
-                    },
-                    {
-                        "id": "6b94dde3-680e-4c24-83c2-afa3bdfddac7",
-                        "points": 0,
-                        "title": "D\u00e4cken"
-                    },
-                    {
-                        "id": "e39f7840-4a21-40f1-9543-b0be2b6ec343",
-                        "points": 0,
-                        "title": "Kylv\u00e4tskan"
-                    },
-                    {
-                        "id": "dc12922b-5185-46ea-b2bf-77c30484e82c",
-                        "points": 1,
-                        "title": "Lyktorna"
-                    }
-                ],
-                "id": "8d681075-b198-49b3-8f82-2875d1313fa7",
-                "numberOfAnswerAlternativesToEnter": 1,
-                "title": "Vad b\u00f6r kontrolleras varje dag innan k\u00f6rning? ",
-                "waspType": "off"
-            },
-            {
-                "answerAlternatives": [
-                    {
-                        "id": "e1736b1f-3e91-4878-895f-1adb1d19720c",
-                        "points": 0,
-                        "title": "Blinkande bakljus"
-                    },
-                    {
-                        "id": "f1eae6db-4e22-496c-aa42-c59ed8cb4bb0",
-                        "points": 0,
-                        "title": "Tuta med j\u00e4mna mellanrum"
-                    },
-                    {
-                        "id": "91095c83-d155-4a58-be88-567f9dbc73d2",
-                        "points": 1,
-                        "title": "R\u00f6d vimpel"
-                    }
-                ],
-                "id": "39166609-ced8-4f7f-9cee-3e49997c476c",
-                "numberOfAnswerAlternativesToEnter": 1,
-                "title": "Hur ska man markera utstickande last?",
-                "waspType": "off"
-            }
-        ],
-        "quizId": "36441772-e3ad-4450-abb4-9c2d27fe4b52",
-        "quizType": "singleRightAnswer",
-        "relatedArticles": [],
-        "resultMessages": [
-            {
-                "pointsRange": {
-                    "from": 0,
-                    "to": 0
-                },
-                "text": "Det \u00e4r v\u00e4ldigt viktigt att kolla fordonsbelysningen innan man ger sig iv\u00e4g, icke fungerande lampor kan inneb\u00e4ra en stor trafikfara.",
-                "title": "Vad b\u00f6r kontrolleras varje dag innan k\u00f6rning? "
-            },
-            {
-                "pointsRange": {
-                    "from": 1,
-                    "to": 3
-                },
-                "text": "Lastutrymmet i en Fiat Ducato kan justeras b\u00e5de p\u00e5 l\u00e4ngden och h\u00f6jden vid k\u00f6p, s\u00e5 att du kan se till att lasten alltid f\u00e5r plats inom bilens ramar!",
-                "title": "Hur ska man markera utstickande last?"
-            }
-        ],
-        "section": {
-            "latestNews": {
-                "self": "http://content-internal.expressen.se/latest-news/standard-section/dca06dfb-770d-41cb-95d8-eadb21eb955b"
-            },
-            "linkUrl": "/annonssida/fiatprofessional/",
-            "mostRead": {
-                "self": "http://content-internal.expressen.se/most-read/standard-section/dca06dfb-770d-41cb-95d8-eadb21eb955b"
-            },
-            "section": {
-                "latestNews": {
-                    "self": "http://content-internal.expressen.se/latest-news/standard-section/68ed240c-022d-4dda-f9ab-6ef3735ab14c"
-                },
-                "linkUrl": "/annonssida/",
-                "mostRead": {
-                    "self": "http://content-internal.expressen.se/most-read/standard-section/68ed240c-022d-4dda-f9ab-6ef3735ab14c"
-                },
-                "self": "http://content-internal.expressen.se/standard-section/68ed240c-022d-4dda-f9ab-6ef3735ab14c",
-                "title": "Annonssida",
-                "type": "standard-section"
-            },
-            "self": "http://content-internal.expressen.se/standard-section/dca06dfb-770d-41cb-95d8-eadb21eb955b",
-            "title": "fiatprofessional",
-            "type": "standard-section"
-        },
-        "self": "http://content-internal.expressen.se/quiz/36441772-e3ad-4450-abb4-9c2d27fe4b52",
-        "showResult": true,
-        "type": "quiz",
-        "updateDate": "2015-02-05T08:04:07.587Z"
-    },
-    {
         "adsInCloseConnectionToContentDisabled": false,
         "bautaWidgets": [],
         "bodyText": "<p><a href=\"http://www.fiatprofessional.se/se/Modeller/Ducato_Skap\" target=\"_blank\">Kolla in nya Fiat Ducato h\u00e4r!</a></p>",
@@ -874,7 +516,17 @@
         "isPremium": false,
         "linkUrl": "/annonssida/fiatprofessional/quiz-klarar-du-korkortsfragorna/",
         "listingImage": {
-            "self": "http://content-internal.expressen.se/image/ee41d941-b021-4db7-b73f-5221ecbd2158"
+            "originalExtension": ".jpg",
+            "pufferPath": "/ee/41/ee41d941b0214db7b73f5221ecbd2158",
+            "self": "http://content-internal.expressen.se/image/ee41d941-b021-4db7-b73f-5221ecbd2158",
+            "type": "image",
+            "versions": [
+                {
+                    "height": 400,
+                    "url": "http://x.cdn-expressen.se/images/ee/41/ee41d941b0214db7b73f5221ecbd2158/original.jpg",
+                    "width": 600
+                }
+            ]
         },
         "omnitureId": "a35ddcb0-1f41-4141-9c8a-b55e0604ada3",
         "pageLinkId": 6007944,
@@ -927,199 +579,6 @@
     {
         "adsInCloseConnectionToContentDisabled": false,
         "bautaWidgets": [],
-        "bottomWidgets": [],
-        "commentsEnabled": false,
-        "headline": "Margarin \u2013 b\u00e4ttre f\u00f6r milj\u00f6n \u00e4n vanligt sm\u00f6r",
-        "hiddenFromLists": false,
-        "hideFromRobots": false,
-        "isLongRead": false,
-        "isPremium": false,
-        "linkUrl": "/annonssida/allt-om-shopping/margarin--battre-for-miljon-an-vanligt-smor/",
-        "omnitureId": "760f2b20-6dd8-4cff-a3f4-6f2881cabd2f",
-        "pageLinkId": 5991056,
-        "preamble": "<p>bsba</p>",
-        "preambleAreaWidgets": [],
-        "publishDate": "2015-01-29T11:23:56.14Z",
-        "rightWidgets": [],
-        "section": {
-            "latestNews": {
-                "self": "http://content-internal.expressen.se/latest-news/standard-section/d5cbbb64-7c81-4c73-a55e-120bb4b2a940"
-            },
-            "linkUrl": "/annonssida/allt-om-shopping/",
-            "mostRead": {
-                "self": "http://content-internal.expressen.se/most-read/standard-section/d5cbbb64-7c81-4c73-a55e-120bb4b2a940"
-            },
-            "section": {
-                "latestNews": {
-                    "self": "http://content-internal.expressen.se/latest-news/standard-section/68ed240c-022d-4dda-f9ab-6ef3735ab14c"
-                },
-                "linkUrl": "/annonssida/",
-                "mostRead": {
-                    "self": "http://content-internal.expressen.se/most-read/standard-section/68ed240c-022d-4dda-f9ab-6ef3735ab14c"
-                },
-                "self": "http://content-internal.expressen.se/standard-section/68ed240c-022d-4dda-f9ab-6ef3735ab14c",
-                "title": "Annonssida",
-                "type": "standard-section"
-            },
-            "self": "http://content-internal.expressen.se/standard-section/d5cbbb64-7c81-4c73-a55e-120bb4b2a940",
-            "title": "Allt om shopping",
-            "type": "standard-section"
-        },
-        "self": "http://content-internal.expressen.se/standard-article/760f2b20-6dd8-4cff-a3f4-6f2881cabd2f",
-        "tags": [],
-        "topWidgets": [],
-        "topics": [],
-        "type": "standard-article",
-        "updateDate": "2015-01-29T11:23:56.14Z"
-    },
-    {
-        "adsInCloseConnectionToContentDisabled": false,
-        "bautaWidgets": [],
-        "bottomWidgets": [],
-        "commentsEnabled": false,
-        "headline": "S\u00e5 bra \u00e4r expertens eget maragarin",
-        "hiddenFromLists": false,
-        "hideFromRobots": false,
-        "isLongRead": false,
-        "isPremium": false,
-        "linkUrl": "/annonssida/allt-om-shopping/sa-bra-ar-expertens-eget-maragarin/",
-        "omnitureId": "90ad4641-de93-4c6e-88f7-3b8842eff49d",
-        "pageLinkId": 5976350,
-        "preamble": "<p>aeggbazbg</p>",
-        "preambleAreaWidgets": [],
-        "publishDate": "2015-01-23T10:11:48.78Z",
-        "rightWidgets": [],
-        "section": {
-            "latestNews": {
-                "self": "http://content-internal.expressen.se/latest-news/standard-section/d5cbbb64-7c81-4c73-a55e-120bb4b2a940"
-            },
-            "linkUrl": "/annonssida/allt-om-shopping/",
-            "mostRead": {
-                "self": "http://content-internal.expressen.se/most-read/standard-section/d5cbbb64-7c81-4c73-a55e-120bb4b2a940"
-            },
-            "section": {
-                "latestNews": {
-                    "self": "http://content-internal.expressen.se/latest-news/standard-section/68ed240c-022d-4dda-f9ab-6ef3735ab14c"
-                },
-                "linkUrl": "/annonssida/",
-                "mostRead": {
-                    "self": "http://content-internal.expressen.se/most-read/standard-section/68ed240c-022d-4dda-f9ab-6ef3735ab14c"
-                },
-                "self": "http://content-internal.expressen.se/standard-section/68ed240c-022d-4dda-f9ab-6ef3735ab14c",
-                "title": "Annonssida",
-                "type": "standard-section"
-            },
-            "self": "http://content-internal.expressen.se/standard-section/d5cbbb64-7c81-4c73-a55e-120bb4b2a940",
-            "title": "Allt om shopping",
-            "type": "standard-section"
-        },
-        "self": "http://content-internal.expressen.se/standard-article/90ad4641-de93-4c6e-88f7-3b8842eff49d",
-        "tags": [],
-        "topWidgets": [],
-        "topics": [],
-        "type": "standard-article",
-        "updateDate": "2015-01-23T10:11:48.78Z"
-    },
-    {
-        "adsInCloseConnectionToContentDisabled": false,
-        "bautaWidgets": [],
-        "bottomWidgets": [],
-        "commentsEnabled": false,
-        "headline": "Margarin \u00e4r b\u00e4ttre f\u00f6r kroppen \u00e4n sm\u00f6r",
-        "hiddenFromLists": false,
-        "hideFromRobots": false,
-        "isLongRead": false,
-        "isPremium": false,
-        "linkUrl": "/annonssida/allt-om-shopping/margarin-ar-battre-for-kroppen-an-smor/",
-        "omnitureId": "9c88895a-277f-4baf-8c87-febb49e56714",
-        "pageLinkId": 5976239,
-        "preamble": "<p>dgggaha</p>",
-        "preambleAreaWidgets": [],
-        "publishDate": "2015-01-23T09:46:01.18Z",
-        "rightWidgets": [],
-        "section": {
-            "latestNews": {
-                "self": "http://content-internal.expressen.se/latest-news/standard-section/d5cbbb64-7c81-4c73-a55e-120bb4b2a940"
-            },
-            "linkUrl": "/annonssida/allt-om-shopping/",
-            "mostRead": {
-                "self": "http://content-internal.expressen.se/most-read/standard-section/d5cbbb64-7c81-4c73-a55e-120bb4b2a940"
-            },
-            "section": {
-                "latestNews": {
-                    "self": "http://content-internal.expressen.se/latest-news/standard-section/68ed240c-022d-4dda-f9ab-6ef3735ab14c"
-                },
-                "linkUrl": "/annonssida/",
-                "mostRead": {
-                    "self": "http://content-internal.expressen.se/most-read/standard-section/68ed240c-022d-4dda-f9ab-6ef3735ab14c"
-                },
-                "self": "http://content-internal.expressen.se/standard-section/68ed240c-022d-4dda-f9ab-6ef3735ab14c",
-                "title": "Annonssida",
-                "type": "standard-section"
-            },
-            "self": "http://content-internal.expressen.se/standard-section/d5cbbb64-7c81-4c73-a55e-120bb4b2a940",
-            "title": "Allt om shopping",
-            "type": "standard-section"
-        },
-        "self": "http://content-internal.expressen.se/standard-article/9c88895a-277f-4baf-8c87-febb49e56714",
-        "tags": [],
-        "topWidgets": [],
-        "topics": [],
-        "type": "standard-article",
-        "updateDate": "2015-01-23T09:46:01.18Z"
-    },
-    {
-        "adsInCloseConnectionToContentDisabled": false,
-        "bautaWidgets": [],
-        "bodyText": "<p>hdfhdfnsf</p>",
-        "bottomWidgets": [],
-        "commentsEnabled": false,
-        "headline": "H\u00e4r \u00e4r absolut godaste kladdkakan utan mj\u00f6lk",
-        "hiddenFromLists": false,
-        "hideFromRobots": false,
-        "isLongRead": false,
-        "isPremium": false,
-        "linkUrl": "/annonssida/allt-om-shopping/har-ar-absolut-godaste-kladdkakan-utan-mjolk/",
-        "omnitureId": "407906ef-655c-451a-b35b-f2d2928f8314",
-        "pageLinkId": 5975885,
-        "preamble": "<p>TEST</p>",
-        "preambleAreaWidgets": [],
-        "publishDate": "2015-01-23T08:12:36.683Z",
-        "rightWidgets": [],
-        "section": {
-            "latestNews": {
-                "self": "http://content-internal.expressen.se/latest-news/standard-section/d5cbbb64-7c81-4c73-a55e-120bb4b2a940"
-            },
-            "linkUrl": "/annonssida/allt-om-shopping/",
-            "mostRead": {
-                "self": "http://content-internal.expressen.se/most-read/standard-section/d5cbbb64-7c81-4c73-a55e-120bb4b2a940"
-            },
-            "section": {
-                "latestNews": {
-                    "self": "http://content-internal.expressen.se/latest-news/standard-section/68ed240c-022d-4dda-f9ab-6ef3735ab14c"
-                },
-                "linkUrl": "/annonssida/",
-                "mostRead": {
-                    "self": "http://content-internal.expressen.se/most-read/standard-section/68ed240c-022d-4dda-f9ab-6ef3735ab14c"
-                },
-                "self": "http://content-internal.expressen.se/standard-section/68ed240c-022d-4dda-f9ab-6ef3735ab14c",
-                "title": "Annonssida",
-                "type": "standard-section"
-            },
-            "self": "http://content-internal.expressen.se/standard-section/d5cbbb64-7c81-4c73-a55e-120bb4b2a940",
-            "title": "Allt om shopping",
-            "type": "standard-section"
-        },
-        "self": "http://content-internal.expressen.se/standard-article/407906ef-655c-451a-b35b-f2d2928f8314",
-        "tags": [],
-        "topWidgets": [],
-        "topics": [],
-        "type": "standard-article",
-        "updateDate": "2015-01-23T08:12:36.683Z"
-    },
-    {
-        "adsInCloseConnectionToContentDisabled": false,
-        "bautaWidgets": [],
         "bodyText": "<p><a href=\"https://www.casumo.com/sv/?utm_source=expressen&utm_medium=native&utm_content=storvinst53&utm_campaign=expressennative\" target=\"_blank\"><strong>H\u00e4mta din v\u00e4lkomstbonus h\u00e4r.</strong><br><strong>Fina specialerbjudanden till alla nya medlemmar.</strong></a></p>\r\n<p>\u00a0</p>\r\n<p><strong>Det \u00e4r inte s\u00e5 konstigt</strong> att Mega Fortune \u00e4r ett av Casumos popul\u00e4raste spel. M\u00e5nga har blivit miljon\u00e4rer via just det spelet. 11 januari var det dags igen, jackpotten p\u00e5 53,6 miljoner delades ut till en spelare i Stockholm.</p>\r\n<p>\u00a0</p>\r\n<p><strong>Spelsajten Casumo</strong> gillar n\u00e4r deras medlemmar vinner pengar \u2013 s\u00e5 sj\u00e4lvklart finns \u00e4ven spelen med maffiga jackpottar h\u00e4r. Och det \u00e4r ocks\u00e5 d\u00e4rf\u00f6r de har helt galna v\u00e4lkomsterbjudanden. Just nu kan du f\u00e5 upp till 400 euro extra att spela f\u00f6r vid din f\u00f6rsta ins\u00e4ttning. Det motsvarar ungef\u00e4r 3 700 kronor.</p>\r\n<p>\u00a0</p>\r\n<p><strong>Vill du hellre ha</strong> freespins g\u00e5r det ocks\u00e5 bra. N\u00e4r du registrerar dig hos Casumo v\u00e4ljer du n\u00e4mligen sj\u00e4lv vilken bonus du vill ha, och det finns n\u00e5got som passar alla.</p>\r\n<p>Just nu \u00e4r Casumo ovanligt gener\u00f6sa - det r\u00e4cker med att du s\u00e4tter in 100 kronor s\u00e5 sexdubblas din ins\u00e4ttning.</p>\r\n<h2><a href=\"https://www.casumo.com/sv/?utm_source=expressen&utm_medium=native&utm_content=storvinst53&utm_campaign=expressennative\" target=\"_blank\">H\u00e4mta din v\u00e4lkomstbonus h\u00e4r. Fina specialerbjudanden till alla nya medlemmar.</a></h2>",
         "bottomWidgets": [],
         "commentsEnabled": false,
@@ -1148,7 +607,17 @@
         "isPremium": false,
         "linkUrl": "/annonssida/vinstjakten/536-miljoner-kronor-utdelade-till-lycklig-svensk/",
         "listingImage": {
-            "self": "http://content-internal.expressen.se/image/54adc38f-b167-4942-a334-d3f30c59766c"
+            "originalExtension": ".jpg",
+            "pufferPath": "/54/ad/54adc38fb1674942a334d3f30c59766c",
+            "self": "http://content-internal.expressen.se/image/54adc38f-b167-4942-a334-d3f30c59766c",
+            "type": "image",
+            "versions": [
+                {
+                    "height": 251,
+                    "url": "http://y.cdn-expressen.se/images/54/ad/54adc38fb1674942a334d3f30c59766c/original.jpg",
+                    "width": 430
+                }
+            ]
         },
         "omnitureId": "5a6513f7-9b19-43d7-8ec4-2900c8b3d625",
         "pageLinkId": 5968154,
@@ -1218,7 +687,17 @@
         "isPremium": false,
         "linkUrl": "/annonssida/fiatprofessional/fiat-ducato--perfekt-for-dig-som-foretagare/",
         "listingImage": {
-            "self": "http://content-internal.expressen.se/image/c2bd9767-5947-4bef-b71d-95da444e34dc"
+            "originalExtension": ".jpg",
+            "pufferPath": "/c2/bd/c2bd976759474befb71d95da444e34dc",
+            "self": "http://content-internal.expressen.se/image/c2bd9767-5947-4bef-b71d-95da444e34dc",
+            "type": "image",
+            "versions": [
+                {
+                    "height": 298,
+                    "url": "http://z.cdn-expressen.se/images/c2/bd/c2bd976759474befb71d95da444e34dc/original.jpg",
+                    "width": 541
+                }
+            ]
         },
         "omnitureId": "9ab13809-15f3-44ff-badd-1dc75940d4bd",
         "pageLinkId": 5964961,
@@ -1288,7 +767,17 @@
         "isPremium": false,
         "linkUrl": "/annonssida/vinstjakten/satte-in-90-kr--checkade-ut-285-000-kr--sa-kan-du-vinna/",
         "listingImage": {
-            "self": "http://content-internal.expressen.se/image/20e393e8-2053-4bfd-9763-48a645c54f93"
+            "originalExtension": ".jpg",
+            "pufferPath": "/20/e3/20e393e820534bfd976348a645c54f93",
+            "self": "http://content-internal.expressen.se/image/20e393e8-2053-4bfd-9763-48a645c54f93",
+            "type": "image",
+            "versions": [
+                {
+                    "height": 539,
+                    "url": "http://x.cdn-expressen.se/images/20/e3/20e393e820534bfd976348a645c54f93/original.jpg",
+                    "width": 800
+                }
+            ]
         },
         "omnitureId": "94f26790-bfd0-498b-9bb3-65f32a42622f",
         "pageLinkId": 5957790,
@@ -1358,7 +847,17 @@
         "isPremium": false,
         "linkUrl": "/annonssida/dromresan/topplista-romantiska-och-barnfria-parhotell/",
         "listingImage": {
-            "self": "http://content-internal.expressen.se/image/1f4466f9-ddc5-4f36-9579-004aa90f8573"
+            "originalExtension": ".png",
+            "pufferPath": "/1f/44/1f4466f9ddc54f369579004aa90f8573",
+            "self": "http://content-internal.expressen.se/image/1f4466f9-ddc5-4f36-9579-004aa90f8573",
+            "type": "image",
+            "versions": [
+                {
+                    "height": 577,
+                    "url": "http://y.cdn-expressen.se/images/1f/44/1f4466f9ddc54f369579004aa90f8573/original.png",
+                    "width": 900
+                }
+            ]
         },
         "omnitureId": "414a83e2-2288-40e2-9e7b-1ff03a38e2cf",
         "pageLinkId": 5935677,
@@ -1562,7 +1061,17 @@
         "isPremium": false,
         "linkUrl": "/annonssida/fiatprofessional/kor-sakrare-i-trafiken--fem-enkla-tips/",
         "listingImage": {
-            "self": "http://content-internal.expressen.se/image/78c1df71-a736-438c-8d7c-464a3eda6098"
+            "originalExtension": ".jpg",
+            "pufferPath": "/78/c1/78c1df71a736438c8d7c464a3eda6098",
+            "self": "http://content-internal.expressen.se/image/78c1df71-a736-438c-8d7c-464a3eda6098",
+            "type": "image",
+            "versions": [
+                {
+                    "height": 329,
+                    "url": "http://w.cdn-expressen.se/images/78/c1/78c1df71a736438c8d7c464a3eda6098/original.jpg",
+                    "width": 600
+                }
+            ]
         },
         "omnitureId": "be5656db-707d-489c-ab4f-0ebaad148fdf",
         "pageLinkId": 5934927,
@@ -1632,7 +1141,17 @@
         "isPremium": false,
         "linkUrl": "/annonssida/fiatprofessional/guide-vilken-motor-passar-dig/",
         "listingImage": {
-            "self": "http://content-internal.expressen.se/image/9b70c04e-80b4-41f7-85bf-9a4546fd69e8"
+            "originalExtension": ".jpg",
+            "pufferPath": "/9b/70/9b70c04e80b441f785bf9a4546fd69e8",
+            "self": "http://content-internal.expressen.se/image/9b70c04e-80b4-41f7-85bf-9a4546fd69e8",
+            "type": "image",
+            "versions": [
+                {
+                    "height": 381,
+                    "url": "http://y.cdn-expressen.se/images/9b/70/9b70c04e80b441f785bf9a4546fd69e8/original.jpg",
+                    "width": 600
+                }
+            ]
         },
         "omnitureId": "86105c4d-9676-475f-ab92-51d84c394920",
         "pageLinkId": 5934891,
@@ -1702,7 +1221,17 @@
         "isPremium": false,
         "linkUrl": "/annonssida/dromresan/njut-av-antalyakusten--har-ar-basta-hotellen/",
         "listingImage": {
-            "self": "http://content-internal.expressen.se/image/3aa7b724-c312-4aaf-99be-354c8314f97d"
+            "originalExtension": ".jpg",
+            "pufferPath": "/3a/a7/3aa7b724c3124aaf99be354c8314f97d",
+            "self": "http://content-internal.expressen.se/image/3aa7b724-c312-4aaf-99be-354c8314f97d",
+            "type": "image",
+            "versions": [
+                {
+                    "height": 668,
+                    "url": "http://w.cdn-expressen.se/images/3a/a7/3aa7b724c3124aaf99be354c8314f97d/original.jpg",
+                    "width": 1002
+                }
+            ]
         },
         "omnitureId": "7a798512-6d6f-4c1b-92dd-98d351de06c4",
         "pageLinkId": 5932816,
