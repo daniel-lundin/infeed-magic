@@ -14,11 +14,11 @@ html(ng-app="infeed")
       //img(ng-src="{{article.listingImage}}")
       h2 {{article.headline}}
       p.article-preamble {{article.preamble}}
-      p.article-body {{article.body}}
+      p.article-body {{article.bodyText}}
 
       div.authors
         div.author(ng-repeat="author in article.authors")
-          span.author-image
+          span.author-image(ng-if="author.image")
             img(ng-src="{{author.image.versions[0].url}}")
           span.author-contact
             h3.author-name {{author.name}}
