@@ -21,7 +21,7 @@ html(ng-app="infeed")
         )
         span(ng-show="article.ad").ad-label ANNONS
         span.close-article-btn(ng-show="article.expanded", ng-click="article.expanded = !article.expanded") X
-        img(ng-src="{{getListingImage(article)}}")
+        img(ng-src="{{getListingImage(article)}}", ng-click="article.expanded = !article.expanded")
         h2(ng-bind-html="getHTML(article.headline)", ng-click="article.expanded = !article.expanded")
         p.article-preamble(ng-bind-html="getHTML(article.preamble)")
         div.article-body
