@@ -13,10 +13,10 @@ html(ng-app="infeed")
       h1 Infeed Magic
 
     .content-wrapper
-      div.article(ng-repeat="article in feed", ng-class='{"ad": article.ad, "expanded": article.expanded}', ng-click="article.expanded = !article.expanded", class="article-container")
+      div.article(ng-repeat="article in feed", ng-class='{"ad": article.ad, "expanded": article.expanded}', class="article-container")
         span(ng-show="article.ad").ad-label ANNONS
         img(ng-src="{{getListingImage(article)}}")
-        h2(ng-bind-html="getHTML(article.headline)")
+        h2(ng-bind-html="getHTML(article.headline)", ng-click="article.expanded = !article.expanded")
         p.article-preamble(ng-bind-html="getHTML(article.preamble)")
         div.article-body
           p(ng-bind-html="getHTML(article.bodyText)")

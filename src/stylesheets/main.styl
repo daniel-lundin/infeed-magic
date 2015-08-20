@@ -1,20 +1,26 @@
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif);
+
 body
   font-family Arial, sans-serif
   background-color #efefef
 
 p 
+  color #000
+  font-size 1em
   line-height 1.3em
   margin-bottom 0.5em
 
 h2
-  &:hover
-    cursor pointer
-  font-size 28px
+  font-family: 'Droid Serif', serif;
+  font-size 1.5em
   font-weight bold
   color #000
+  line-height 1.2em
+  &:hover
+    cursor pointer
     
-h2 + p, p + h2
-  margin-top 28px
+h2 + p
+  margin-top 0.6em
 
 .article-container
   background-color #fff
@@ -56,11 +62,14 @@ h2 + p, p + h2
   color black
 
 .article-preamble
-  font-weight bold
   margin 10px 0
-
+  
 .article-body
   display none
+  h2 
+    font-size 1.2em
+    line-height 1em
+    margin-top 1.1em
 
 .authors, .author
   margin-top 10px

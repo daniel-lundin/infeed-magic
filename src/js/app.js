@@ -42,7 +42,8 @@
       };
 
       $scope.getHTML = function(html) {
-        return $sce.trustAsHtml(html);
+        var cleanHTML = html ? html.replace(/<p>\u00a0<\/p>/g, "") : "";
+        return $sce.trustAsHtml(cleanHTML);
       };
 
       $scope.getListingImage = function(article, aspectRatio) {
