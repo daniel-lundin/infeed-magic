@@ -76,7 +76,7 @@
         }
       };
     })
-    .directive('onCloseScrollTo', function($animate) {
+    .directive('onCloseScrollTo',['$animate', function($animate) {
       return {
         restrict: 'A',
         link: function (scope, elem) {
@@ -91,6 +91,6 @@
           });
         }
       };
-    });
+    }]);
 
 }(window, angular));
