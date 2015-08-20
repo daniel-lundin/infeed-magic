@@ -46,7 +46,7 @@ html(ng-app="infeed")
                   i {{author.email}}
 
 
-        div.expand-button(ng-click="article.expanded = !article.expanded")
+        div.expand-button(ng-click="article.expanded = !article.expanded", on-close-scroll-to="")
           i.fa.fa-angle-down(ng-hide="article.expanded")
           i.fa.fa-angle-up(ng-show="article.expanded")
 
@@ -59,3 +59,4 @@ html(ng-app="infeed")
 
     if develop
       script(src="//localhost:9001/livereload.js")
+    script(src="//code.jquery.com/jquery-1.11.3.min.js")

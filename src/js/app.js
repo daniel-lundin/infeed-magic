@@ -75,6 +75,22 @@
           }, 0);
         }
       };
+    })
+    .directive('onCloseScrollTo', function($animate) {
+      return {
+        restrict: 'A',
+        link: function (scope, elem) {
+          elem.on('click', function () {
+            if(scope.article.expanded) {
+              var top = $(elem).closest(".article").offset().top;
+
+              $("html, body").animate({
+                scrollTop: top
+              });
+            }
+          });
+        }
+      };
     });
 
 }(window, angular));
