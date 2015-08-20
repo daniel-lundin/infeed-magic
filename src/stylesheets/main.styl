@@ -5,17 +5,27 @@ h2
   font-size 28px
 
 .article-container
-  background-color blue
-  margin-top 10px
+  background-color #efefef
+  margin 10px 10px 0 10px
   padding 20px
   position relative
   box-sizing border-box
-  color white
+  color #696969
+  border-radius 4px
+  box-shadow 1px 1px 4px rgba(0, 0, 0, 0.2)
+
+  img
+    width 100%
+    margin-bottom 10px
 
   &.ad
-    background-color red
+    background-color #fffbf2
     border 2px dashed yellow
 
+
+  &.expanded
+    .article-body
+      display block
 
 .ad-label
   position absolute
@@ -29,3 +39,5 @@ h2
   font-weight bold
   margin 10px 0
 
+.article-body
+  display none
