@@ -14,25 +14,36 @@ h2
   border-radius 4px
   box-shadow 1px 1px 4px rgba(0, 0, 0, 0.2)
 
+  &:hover
+    cursor pointer
+
+    h2, .article-preamble
+      text-decoration underline
+
   img
     width 100%
     margin-bottom 10px
 
   &.ad
     background-color #fffbf2
-    border 2px dashed yellow
-
 
   &.expanded
     .article-body
       display block
 
+    &:hover
+      cursor default
+
+      h2, .article-preamble
+        text-decoration none
+
+
 .ad-label
   position absolute
-  top -5px
+  top -7px
   left 0
-  font-size 5px
-  line-height 5px
+  font-size 7px
+  line-height 7px
   color black
 
 .article-preamble
