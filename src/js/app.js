@@ -34,11 +34,15 @@
           ad.ad = true;
         });
 
-        $scope.feed = $scope.articles.slice(0, 4);
+        $scope.feed = $scope.articles.slice(0, 3);
         $scope.feed.push($scope.ads[0]);
-        $scope.feed = $scope.feed.concat($scope.articles.slice(5, 8));
+        $scope.feed = $scope.feed.concat($scope.articles.slice(3, 6));
         $scope.feed.push($scope.ads[1]);
-        $scope.feed = $scope.feed.concat($scope.articles.slice(8));
+        $scope.feed = $scope.feed.concat($scope.articles.slice(6, 9));
+        $scope.feed.push($scope.ads[2]);
+        $scope.feed = $scope.feed.concat($scope.articles.slice(9, 12));
+        $scope.feed.push($scope.ads[3]);
+        $scope.feed = $scope.feed.concat($scope.articles.slice(12));
       };
 
       $scope.getHTML = function(html) {
